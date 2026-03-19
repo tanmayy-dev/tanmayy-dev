@@ -1,8 +1,4 @@
-# Tanmay Yadav
-
-I build tools that remove manual work.
-
----
+# Tanmay 
 
 Backend developer focused on APIs, automation, bot-development, SaaS and real-world systems.
 I prefer solving practical problems over building demo projects.
